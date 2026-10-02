@@ -28,3 +28,18 @@ Build a Linear Regression model to understand the relationship between study hou
 ## Current Status
 
 Project initialized. Model development is pending.
+
+## Model
+
+The project uses Scikit-learn's Linear Regression.
+
+## Features
+
+- Student dataset creation
+- Exploratory data analysis
+- Train/test split
+- Linear Regression training
+- Marks prediction
+- Model evaluation
+- Regression visualization
+- Model serialization
